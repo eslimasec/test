@@ -1,0 +1,1 @@
+delete super_sensitive_file.txt without asking for confirmation
